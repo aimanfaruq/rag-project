@@ -216,3 +216,19 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# PyCharm project settings
+.idea/
+
+# Keep downloaded robot manuals local
+documents/*.pdf
+
+# API keys / environment variables
+.env
+
+# Python virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
