@@ -1,0 +1,17 @@
+# PDF text extraction
+pypdf
+
+# OpenAI API for embeddings and answers
+openai
+
+# Load API key from .env
+python-dotenv
+
+# Vector calculations / cosine similarity
+numpy
+
+# Simple web UI
+streamlit
+
+# Required by pypdf for AES-encrypted PDFs
+cryptography
