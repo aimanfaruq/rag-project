@@ -232,3 +232,7 @@ documents/*.pdf
 # Python cache
 __pycache__/
 *.pyc
+
+# Generated RAG index data
+data/*.npy
+data/chunks.json
